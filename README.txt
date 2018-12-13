@@ -1,4 +1,4 @@
-#C. code editable and convertible to POS too.
+C program code editable and convertible to many record keeping projects.
 
 printf("\n\t\t###############################################");
       printf("\n\t\tV-INFORMATION TECHNOLOGY & MANAGEMENT INSTITUTE");
@@ -7,7 +7,7 @@ printf("\n\t\t###############################################");
       printf("\t\t2- DISPLAY STUDENT RECORD\n\n");
 
 
-COULD BE 
+Lines well commented
 
 
 printf("\n\t\t###############################################");
